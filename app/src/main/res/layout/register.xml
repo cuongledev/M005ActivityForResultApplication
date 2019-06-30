@@ -27,7 +27,7 @@
             android:background="#ef1c63"
             android:id="@+id/call"/>
         <EditText
-            android:id="@+id/username"
+            android:id="@+id/user"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:inputType="text"
